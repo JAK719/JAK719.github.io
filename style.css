@@ -28,8 +28,7 @@ main,
 footer {
     margin: 0 auto;
     max-width: 900px;
- 
-}
+  }
 
 
 header {
@@ -101,7 +100,7 @@ section ul {
 
 
 
-.aboutMe {
+#aboutMe {
     display: flex;
     flex-flow: wrap;
 }
