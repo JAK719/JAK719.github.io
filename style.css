@@ -104,7 +104,6 @@ section ul {
 .aboutMe {
     display: flex;
     flex-flow: wrap;
-
 }
 
 
@@ -126,7 +125,7 @@ section ul {
     padding: 1em;
 }
 
-#code article img {
+#code article img {  
    width: 100%;
    border: 1px solid #333;
 }
