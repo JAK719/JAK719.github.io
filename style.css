@@ -18,10 +18,13 @@ html {
     
 }
 
+
 h1, h2, h3 {
     color: #000;
     font-family: 'Didact Gothic', sans-serif;
 }
+
+
 
 header,
 main,
@@ -122,6 +125,8 @@ section ul {
 #code article {
     background: #e3c4a8;
     padding: 1em;
+    /* overflow- */
+    overflow: auto;
 }
 
 #code article img {  
