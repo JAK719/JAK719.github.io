@@ -146,3 +146,24 @@ footer {
 
 }
 
+/* .email img{
+    background: url("/images/email-outline.png") no-repeat;
+    display: inline-block;
+} */
+
+#email:hover{
+   content: url("/images/mail.png");
+}
+
+#linked:hover{
+    content: url("/images/linkedin-solid.png");
+}
+
+#git:hover{
+    content: url("/images/github-solid.png");
+}
+
+#phone:hover{
+    content: url("/images/telephone-solid.png");
+}
+
